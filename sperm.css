@@ -10,7 +10,8 @@ html {
 .btn {
   padding: 100px;
   text-align: center;
-  background-color: white;
+  color: black;
+  background-color: rgb(39, 135, 224);
   font-size: 70px;
 
   overflow: auto;
