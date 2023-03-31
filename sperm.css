@@ -10,8 +10,7 @@ html {
 .btn {
   padding: 100px;
   text-align: center;
-  color: black;
-  background-color: rgb(39, 135, 224);
+  background-color: rgb(13, 28, 42);
   font-size: 70px;
 
   overflow: auto;
@@ -34,9 +33,10 @@ html {
   background-color: rgb(35, 121, 201);
   font-size: 70px;
 
+  overflow: auto;
   margin: 100px auto;
   display: flex;
   justify-content: center;
   border: none; /* убираем рамку */
-  box-shadow: 0 2px 4px rgb(9, 92, 236); /* тень */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* тень */
 }
